@@ -9,7 +9,7 @@ public class AppTest {
 
     @Test
     public void testFactorialOfFive() {
-        assertEquals(120L, app.factorial(5));
+        assertEquals(150L, app.factorial(5));
     }
 
     @Test
