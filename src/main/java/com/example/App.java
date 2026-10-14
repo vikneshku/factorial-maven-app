@@ -19,7 +19,7 @@ public class App {
 
     // Lets you run the program directly: java -cp target/classes com.example.App 5
     public static void main(String[] args) {
-        int number = 5;
+        int number = -1;
         if (args.length > 0) {
             number = Integer.parseInt(args[0]);
         }
